@@ -1,0 +1,33 @@
+_repo: Aunt-Jo-s-Scrap-Bag-VIAn-Old-Fashioned-Thanksgiving-Etc._27567
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alcott, Louisa May
+    aliases:
+    - Alcott, L. M. (Louisa May)
+    - Alcott, Louisa M. (Louisa May)
+    - Barnard, A. M.
+    birthdate: 1832
+    deathdate: 1888
+    gutenberg_agent_id: '102'
+    url: http://www.gutenberg.org/2009/agents/102
+    wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
+description: ''
+gutenberg_issued: '2008-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27567'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+title: 'Aunt Jo''s Scrap-Bag VI
+
+  An Old-Fashioned Thanksgiving, Etc.'
+url: http://www.gutenberg.org/ebooks/27567
