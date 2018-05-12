@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/102
     wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27567#Aunt-Jo-s-Scrap-Bag-VIAn-Old-Fashioned-Thanksgiving-Etc.
 gutenberg_issued: '2008-12-19'
 gutenberg_type: Text
 identifiers:
